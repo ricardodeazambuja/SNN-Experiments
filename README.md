@@ -1,5 +1,5 @@
 # SNN-Experiments
-Here I'm sharing some of the initial experiments I did with spiking neural networks (SNN) using Python. As I don't have time to expand them I hope they are going to be useful to someone else. Probably there are some (or lots of?) bugs, so feel free to correct them :)   
+Here I'm sharing some of the **initial or unpublished** experiments I did with spiking neural networks (SNN) using Python. As I don't have time to expand them I hope they are going to be useful to someone else. Probably there are some (or lots of?) bugs, so feel free to correct them :)   
 
 Biased Unsupervised Learning Method: a novel(???) way to use STDP  
 https://github.com/ricardodeazambuja/SNN-Experiments/blob/master/Biased%20Unsupervised%20Learning%20Method/Biased%20Unsupervised%20Learning%20Method.ipynb  
