@@ -32,7 +32,7 @@ https://www.researchgate.net/publication/308500845_Morphosis_Taking_Morphologica
 But my guess is that changing only the input code is going to make a huge difference already because I had problems with my old input codes.
 
 ### 3. Ensembles and Evolutionary Algorithms
-For [my IJCNN2016 paper](https://github.com/ricardodeazambuja/IJCNN2016), I had multiple 'liquids' working in parallel generating better results than individuals ones. Below I presented a figure (unpublished results) that shows random generated liquids are hardly good (or bad!) in all tasks:  
+For [my IJCNN2016 paper](https://github.com/ricardodeazambuja/IJCNN2016), I had multiple 'liquids' working in parallel generating better results than individuals ones. Below it's a figure (unpublished results) that shows random generated liquids are hardly good (or bad!) in all tasks:  
 <img src="DTW_100_individual_liquids_square_triangle_circle.png" alt="Scores for individual liquids" width="800"/>  
 However, when you test them for only one task, even randomly mixing them generates a better result:  
 <img src="DTW_100_different_liquids_parallel_avr.png" alt="Scores for parallel liquids  - drawing a circle task" width="800"/>  
