@@ -1,5 +1,8 @@
+<img src="DSC_0040-ANIMATION.gif" alt="Random experiment using BAXTER" width="800"/>  
+
 # SNN-Experiments
-Here I'm sharing some of the **initial and/or unpublished** experiments I did with spiking neural networks (SNN). As I don't have time to expand them I hope they are going to be useful to someone else. Probably there are some (or lots of?) bugs, so feel free to correct them :)   
+Here I'm sharing some of the **initial and/or unpublished** experiments I did with spiking neural networks (SNN). As I don't have time to expand them, I hope they are going to be useful to someone else. Probably there are some (or lots of?) bugs, so feel free to correct them :)   
+## Everything I'm sharing here is TOTALLY FREE to be (re)used, but be a nice person and: 1)share any work derived from here; 2)cite my papers :D
 
 Biased Unsupervised Learning Method: a novel(???) way to use STDP  
 https://github.com/ricardodeazambuja/SNN-Experiments/blob/master/Biased%20Unsupervised%20Learning%20Method/Biased%20Unsupervised%20Learning%20Method.ipynb  
@@ -41,6 +44,18 @@ Another interesting (quite obvious) fact is that random generated liquids are...
 <img src="DTW_100_individual_liquids_circle.png" alt="Scores for individual liquids - drawing a circle task" width="800"/>  
 Maybe, it's not possible to have 'one neural circuit to rule them all'. Also, evolutionary algorithms could be useful to iterate based on the best random generated ones creating better invidual liquids. That's it, food for thought!
 
+### 4. Different shapes
+I finally found in an old email some plots from my experiments teaching an LSM to control BAXTER to draw:
+#### Multiple Squares:
+I'm not sure, but I think it would manipulate the bias variables (check my [IJCNN2016 paper](https://github.com/ricardodeazambuja/IJCNN2016) if you don't know what I'm talking about).
+
+<img src="multiple_squares_experiment_1.png" alt="Drawing the system was taught to reproduce" width="400"/>  
+<img src="multiple_squares_experiment_2.png" alt="Results teaching all four squares" width="400"/>  
+<img src="multiple_squares_experiment_3.png" alt="Results teaching only one square" width="400"/>  
+
+#### Trefoil:
+The trefoil is a very interesting shape because the system passes more than once over the same place. I think it's a very nice example of the power of LSMs when you need to take into account events that happened in the past.
+<img src="Trefoil.png" alt="Random experiment using BAXTER" width="400"/>
 ## If you liked the stuff above, you may want to check [BEE - The Spiking Reservoir (LSM) Simulator](https://github.com/ricardodeazambuja/Bee)
 
 
