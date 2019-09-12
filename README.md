@@ -16,6 +16,10 @@ https://github.com/ricardodeazambuja/SNN-Experiments/blob/master/Implementing%20
 Improving the resolution of population coding by the use of multiple layers  
 https://github.com/ricardodeazambuja/SNN-Experiments/blob/master/Multilayer%20population%20code/Improving%20the%20resolution%20of%20population%20coding%20by%20the%20use%20of%20multiple%20layers.ipynb
 
+In case you are working with neuromorphic computers, I've developed some code that translates LSM models from [Bee](https://github.com/ricardodeazambuja/Bee) to [SpiNNaker](http://spinnakermanchester.github.io/) and, as the other stuff available here, I never had the time to publish about it:  
+https://github.com/ricardodeazambuja/sPLYnnaker  
+https://github.com/ricardodeazambuja/SpiNNakerWorkshop2016  
+
 
 ## Crazy ideas
 ### 1. Stochastic Resonance
