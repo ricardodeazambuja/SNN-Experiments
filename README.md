@@ -60,7 +60,7 @@ I'm not sure, but I think it would manipulate the bias variables (check my [IJCN
 #### Trefoil:
 The trefoil is a very interesting shape because the system passes more than once over the same place. I think it's a very nice example of the power of LSMs when you need to take into account events that happened in the past.
 <img src="Trefoil.png" alt="Random experiment using BAXTER" width="400"/>
-## If you liked the stuff above, you may want to check [BEE - The Spiking Reservoir (LSM) Simulator](https://github.com/ricardodeazambuja/Bee)
+## If you liked the stuff above, you may want to check [BEE - The Spiking Reservoir (LSM) Simulator](https://github.com/ricardodeazambuja/Bee) and/or [my papers](https://ricardodeazambuja.com/publications/).
 
 
 https://ricardodeazambuja.com/
