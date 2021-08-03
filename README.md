@@ -1,7 +1,7 @@
 <img src="DSC_0040-ANIMATION.gif" alt="Random experiment using BAXTER" width="800"/>  
 
 # SNN-Experiments
-Here I'm sharing some of the **initial and/or unpublished** experiments I did with spiking neural networks (SNN). As I don't have time to expand them, I hope they are going to be useful to someone else. Probably there are some (or lots of?) bugs, so feel free to correct them :)   
+Here I'm sharing some of the **initial and/or unpublished** experiments I did with spiking neural networks (SNN). As I don't have time to expand them, I hope they are going to be useful for someone else. Probably there are some (or lots of?) bugs, so feel free to correct them :)   
 ## Everything I'm sharing here is TOTALLY FREE to be (re)used, but be a nice person and: 1)share any work derived from here; 2)cite my papers :D
 
 Biased Unsupervised Learning Method: a novel(???) way to use STDP  
