@@ -47,6 +47,8 @@ However, when you test them for only one task, even randomly mixing them generat
 Another interesting (quite obvious) fact is that random generated liquids are... not great in general, but some generate much better results than others:
 <img src="DTW_100_individual_liquids_circle.png" alt="Scores for individual liquids - drawing a circle task" width="800"/>  
 Maybe, it's not possible to have 'one neural circuit to rule them all'. Also, evolutionary algorithms could be useful to iterate based on the best random generated ones creating better invidual liquids. That's it, food for thought!
+* [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+](https://arxiv.org/abs/1803.03635) seems an interesting reading related to the ideas above.
 
 ### 4. Different shapes
 I finally found in an old email some plots from my experiments teaching an LSM to control BAXTER to draw:
